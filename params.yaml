@@ -1,0 +1,6 @@
+preprocess:
+  target_threshold: 15000
+
+train:
+  C: 1.0
+  random_state: 42
